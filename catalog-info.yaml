@@ -5,7 +5,7 @@ metadata:
   description: Python application for demonstration purposes, named python-app-2
   # Example for optional annotations
   annotations:
-    github.com/project-slug: monvillanueva/python-app-2
+    github.com/project-slug: monvillanueva-continous-learning/python-app-2
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
